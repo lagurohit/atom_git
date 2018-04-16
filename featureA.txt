@@ -1,2 +1,0 @@
-feature A file
-line 2 added
